@@ -15,6 +15,6 @@ Jenna and I have been planning this trip ever since we learned about Amtrak's US
 - Portland OR
 - Seattle WA (home!)
 
-I thought this route map visualizes the route beautifully. The route is in blue, and the stops are in yellow.
+This map visualizes our route nicely; the travel segments are in blue and the stops are in yellow.
 ![United States map with train trip route and stops marked](/github-pages-with-jekyll/docs/assets/images/amtrak_routes.png)
 
