@@ -30,4 +30,4 @@ It's a welcome change to taking a flight. You get wide seats, lots of luggage al
 
 <img src="/github-pages-with-jekyll/docs/assets/images/amtrak_day1_view.gif" alt="View from the train window; stream; trees" width="500"/>
 
-But some things don't change when you have to travel with other people. Now, excuse me while I try to get some shut-eye accompanied by a child's screams...
+But some things don't change when you have to travel with other people. \*cue screaming child at 11 pm\*
