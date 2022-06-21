@@ -18,7 +18,7 @@ Jenna and I have been planning this trip ever since we learned about Amtrak's US
 This map visualizes our route nicely; the travel segments are in blue and the stops are in yellow.
 <img src="/github-pages-with-jekyll/docs/assets/images/amtrak_routes.png" alt="United States map with train trip route and stops marked" width="500"/>
 
-Our journey begins at King Street Station, which I think has a very grand look to it.
+Our journey begins at King Street Station, which looks quite grand.
 
 <img src="/github-pages-with-jekyll/docs/assets/images/king_street.jpeg" alt="King Street Station" width="500"/>
 
