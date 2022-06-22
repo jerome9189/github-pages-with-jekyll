@@ -2,7 +2,7 @@
 title: "The Big Train Trip: Day 2"
 date: 2022-06-18
 ---
-People seem a lot chattier on the train. We hung out in the observation car, where a nice old lady told us her life story. Her career in science. Beating three different cancers. Losing her mother just a few weeks prior. Deep stuff, you know. The observation car is a nice place.
+People seem a lot chattier on the train. We hung out in the observation car, where a nice old lady told us her life story. Her career. Beating three different cancers. Losing her mother just a few weeks prior. Deep stuff, you know. The observation car is a nice place.
 <img src="/github-pages-with-jekyll/docs/assets/images/observation_car_day2.jpg" alt="View from observation car window; cows; grass" width="500"/>
 
 Finally arrived at East Glacier Park MT. Quaint. Lovely views. But the place is so remote that neither Jenna nor I were able to get cellular reception.
