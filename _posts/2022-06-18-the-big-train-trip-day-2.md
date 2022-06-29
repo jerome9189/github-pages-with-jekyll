@@ -18,4 +18,4 @@ Montana is known for huckleberries, so we had to grab a slice of huckleberry pie
 <img src="/github-pages-with-jekyll/docs/assets/images/huckleberry_pie.jpg" alt="A slice of huckleberry pie with whip cream on top" width="500"/>
 <img src="/github-pages-with-jekyll/docs/assets/images/day2_margs.jpg" alt="Huckleberry jalapeño margaritas" width="500"/>
 
-Tomorrow, a tour guide will drive us to a bunch of scenic spots in Glacier National Park.
+Tomorrow, a tour bus will drive us to Glacier National Park. Can't wait!
