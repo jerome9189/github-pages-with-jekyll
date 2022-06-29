@@ -2,7 +2,7 @@
 title: "The Big Train Trip: Day 3"
 date: 2022-06-19
 ---
-Woke up early today for the bus tour. We picked up some coffee and a breakfast sandwich at the local grocery store on our way to the pickup spot. 
+Woke up early today for the Glacier Park Red Bus Tour. We picked up some coffee and a breakfast sandwich at the local grocery store on our way to the pickup spot. 
 
 <img src="/github-pages-with-jekyll/docs/assets/images/day3_redbus.jpg" alt="Red tour bus" width="500"/>
 
