@@ -16,8 +16,6 @@ We also stopped at a lodge for lunch with a great view of the mountains. Also, s
 
 <img src="/github-pages-with-jekyll/docs/assets/images/day3_2.jpg" alt="Plate of salad by a window with a mountain view" width="300"/>
 
-<img src="/github-pages-with-jekyll/docs/assets/images/day3_1.jpg" alt="Mountain and water" width="500"/>
-
 <img src="/github-pages-with-jekyll/docs/assets/images/day3_sheep.jpg" alt="3 sheep" width="500"/>
 
 <img src="/github-pages-with-jekyll/docs/assets/images/day3_jenna.jpg" alt="Jenna taking pictures" width="500"/>
