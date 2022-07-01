@@ -9,4 +9,4 @@ We grabbed gyros for dinner at a Greek restaurant on Brady Street and then stopp
 
 <img src="/github-pages-with-jekyll/docs/assets/images/day5_dessert.jpg" alt="Chocolate mousse" width="500"/>
 
-I realize I didn't take too many pictures today, not much caught my eye. Hopefully tomorrow's different. 
+I realize I didn't take too many pictures today; not much caught my eye. Hopefully tomorrow's different. 
