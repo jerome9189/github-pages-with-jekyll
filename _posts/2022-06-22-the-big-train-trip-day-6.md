@@ -9,7 +9,7 @@ Today's been packed. We started off the day with a trip to the Milwaukee Art Mus
 
 <img src="/github-pages-with-jekyll/docs/assets/images/day6_mam_int.jpg" alt="Milwaukee Art Museum Interior" width="500"/>
 
-I'm not an art connoisseur but this museum is definitely among my top 5 art museums. They had a ton of collections, from old French advertising posters to old sculptures to optical illusions.
+I'm no art connoisseur but this museum is definitely among my top 5 art museums. They had a ton of collections, from old French advertising posters to old sculptures to optical illusions.
 
 <img src="/github-pages-with-jekyll/docs/assets/images/day6_birds.jpg" alt="Wooden birds art" width="500"/>
 
