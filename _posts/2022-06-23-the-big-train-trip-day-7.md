@@ -15,7 +15,8 @@ We spent most of today just eating and drinking before catching a bus to Madison
 - A very elaborately garnished Bloody Mary at Sobelman's. I don't even like Bloody Marys but I had to check it out because it looked so over-the-top.
 
     <p>
-        <img src="/github-pages-with-jekyll/docs/assets/images/day7_sobelmans1.jpg" alt="Bloody Mary with many garnishes" width="200"/><img src="/github-pages-with-jekyll/docs/assets/images/day7_sobelmans2.jpg" alt="A bronze colored state of a bloody mary drink" width="200"/>
+        <img src="/github-pages-with-jekyll/docs/assets/images/day7_sobelmans1.jpg" alt="Bloody Mary with many garnishes" width="200"/>
+        <img src="/github-pages-with-jekyll/docs/assets/images/day7_sobelmans2.jpg" alt="A bronze colored state of a bloody mary drink" width="200"/>
     </p>
 
 - Milwaukee Public Market. There's heaps of great vendors; I am a huge fan of Kehr's chocolate-covered cherries.
