@@ -5,14 +5,14 @@ date: 2022-06-26
 
 We had a very touristy day today. First stop was Garfield Park Conservatory. Lots of cool plants! I must say that I've started to become slightly jaded to conservatories, zoos, botanical gardens and the like. But this one was a fun and short stop, and we saw a cool turtle.
 
-<img src="/github-pages-with-jekyll/docs/assets/images/day10_turtle.jpg" alt="Turtle" width="400"/>
+<img src="/github-pages-with-jekyll/docs/assets/images/day10_turtle.jpg" alt="Turtle" width="300"/>
 
 After that, we had Chicago's famous deep dish pizza at Lou Malnati's on Magnificent Mile. Super touristy, but the delicious crust is worth the wait. We also had some *really* good gelato -- green tea and amarena cherry at Cafe Cremerie.
 
 <p>
 <img src="/github-pages-with-jekyll/docs/assets/images/day10_pizza.jpg" alt="Deep dish pizza" width="300"/>
 
-<img src="/github-pages-with-jekyll/docs/assets/images/day10_gelato.jpg" alt="Gelato" width="300"/>
+<img src="/github-pages-with-jekyll/docs/assets/images/day10_gelato.jpg" alt="Gelato" width="400"/>
 </p>
 
 Next stop: Museum of Contemporary Art. And the art was indeed, contemporary.
