@@ -3,7 +3,7 @@ title: "The Big Train Trip: Day 12"
 date: 2022-06-28
 ---
 
-Today was our last day in Chicago, and I wanted to check off a couple of touristy things. We had Chicago-style hot dogs and a cake shake at Portillo's. They hot dogs were tiny, soggy, and frankly, overrated. 👎
+Today was our last day in Chicago, and I wanted to check off a couple of touristy things. We had Chicago-style hot dogs and a cake shake at Portillo's. The hot dogs were tiny, soggy, and frankly, overrated. 👎
 
 <img src="/github-pages-with-jekyll/docs/assets/images/day12_dog.jpg" alt="chicago dog" width="500"/>
 
