@@ -7,6 +7,6 @@ Arrived in Boston this evening. Our awesome friend Victor is hosting us while we
 
 <img src="/github-pages-with-jekyll/docs/assets/images/day13_vic.jpg" alt="the 3 of us in SF getting drinks" width="500"/>
 
-We finished off the night with some fantastic hotpot. Thanks, Victor!
+We ended the night with some fantastic hotpot. Thanks, Victor!
 
 <img src="/github-pages-with-jekyll/docs/assets/images/day13_hotpot.jpg" alt="hotpot spread" width="500"/>
