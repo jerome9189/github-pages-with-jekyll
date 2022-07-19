@@ -7,10 +7,11 @@ We did a lot of the touristy things today. First, the American Museum of Natural
 
 <img src="/github-pages-with-jekyll/docs/assets/images/day17_bug.jpg" alt="Jenna pointing at a ladybug image" width="500"/>
 
+<p>
 <img src="/github-pages-with-jekyll/docs/assets/images/day17_crystal1.jpg" alt="Big pink crystal" width="300"/>
 
 <img src="/github-pages-with-jekyll/docs/assets/images/day17_crystal2.jpg" alt="Big purple geode" width="300"/>
-
+</p>
 Then, we went to the Top of the Rock (Rockefeller Center) to get some of the best views NYC has to offer. I really liked the view of Central Park from here.
 
 <img src="/github-pages-with-jekyll/docs/assets/images/day17_rock.jpg" alt="Views from the Top of the Rock" width="500"/>
