@@ -3,7 +3,7 @@ title: "The Big Train Trip: Day 17"
 date: 2022-07-03
 ---
 
-We did a lot of the touristy things today. First, the American Museum of Natural History. Our favorite things there were some very high res prints of bugs, and the crystal exhibit.
+We did a lot of the touristy things today. First, the American Museum of Natural History. Our favorite things there were some very high-res prints of bugs, and the crystal exhibit.
 
 <img src="/github-pages-with-jekyll/docs/assets/images/day17_bug.jpg" alt="Jenna pointing at a ladybug image" width="500"/>
 
