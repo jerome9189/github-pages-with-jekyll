@@ -22,7 +22,7 @@ We walked briefly through Times Square, which was extremely crowded -- I can see
 
 Our next stop was Los Tacos No. 1, and these are by far the best tacos I've ever had. The beef tacos were incredibly flavorful and tender. I know I'm gonna order at least 10 of these when I'm back in NYC.
 
-<img src="/github-pages-with-jekyll/docs/assets/images/day17_taco.jpg" alt="2 Tacos" width="300"/>
+<img src="/github-pages-with-jekyll/docs/assets/images/day17_taco.jpg" alt="2 Tacos" width="500"/>
 
 We then took a nice evening stroll through Central Park, which seems to be a very popular time for park visitors -- there was a ton of activities, music and dancing. It was very lively, and significantly better maintained than the rest of the city.
 
