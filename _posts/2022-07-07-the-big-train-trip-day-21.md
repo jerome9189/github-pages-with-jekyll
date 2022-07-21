@@ -5,11 +5,9 @@ date: 2022-07-07
 
 We had just enough time today to visit the Smithsonian Museum of Natural History before our train to New Orleans. We saw some pretty cool exhibits; here are a few highlights:
 
-<p>
 <img src="/github-pages-with-jekyll/docs/assets/images/day21_clay.jpg" alt="Us in front of a cool clay concretion" width="500"/>
 
 <img src="/github-pages-with-jekyll/docs/assets/images/day21_lapis.jpg" alt="Lapis Lazuli" width="300"/>
-</p>
 
 <img src="/github-pages-with-jekyll/docs/assets/images/day21_diamond.jpg" alt="The Hope Diamond" width="500"/>
 
