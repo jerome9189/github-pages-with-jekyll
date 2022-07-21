@@ -13,7 +13,7 @@ We had just enough time today to visit the Smithsonian Museum of Natural History
 
 <img src="/github-pages-with-jekyll/docs/assets/images/day21_worm.gif" alt="A caterpillar crawling on Jenna's hand" width="500"/>
 
-We grabbed our luggage and got on the train shortly after leaving the museum. Fun fact: coach class passengers don't get to eat nice meals in the dining car, so our food options limited. So we try and bring our own snacks (and the occasional Soylent) as alternatives to the crappy microwaveable meals in the cafe car :)
+We grabbed our luggage and got on the train shortly after leaving the museum. Fun fact: coach class passengers don't get to eat nice meals in the dining car, so our food options are limited. We try and bring our own snacks (and the occasional Soylent) as alternatives to the crappy microwaveable meals in the cafe car :)
 
 <img src="/github-pages-with-jekyll/docs/assets/images/day21_soylent.jpg" alt="Jenna drinking soylent on the train" width="500"/>
-
+ 
