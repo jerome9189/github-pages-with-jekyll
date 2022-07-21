@@ -37,6 +37,6 @@ Later, we had an early dinner at Ignazio's, one of my favorite pizza spots in DU
 
 <img src="/github-pages-with-jekyll/docs/assets/images/day18_pizza.jpg" alt="Pizza" width="500"/>
 
-In the evening, we managed to snag a spot at Transmitter Park to view the fireworks. The crowd was massive, and we were lucky to get a spot. It was a really great show!
+In the evening, we managed to snag a spot at Transmitter Park to view the fireworks. The crowd was massive, and we were lucky to get a spot. I'm glad that the show was actually worth the wait.
 
 <img src="/github-pages-with-jekyll/docs/assets/images/day18_fireworks.jpg" alt="4th of July fireworks" width="500"/>
